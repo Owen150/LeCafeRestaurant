@@ -1,2 +1,1 @@
-# Semester Project
- Internet Application Programming Semester Project
+A restaurant management web application.
