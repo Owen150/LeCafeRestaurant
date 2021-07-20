@@ -1,3 +1,2 @@
-A restaurant management system.
-
- 
+# Semester Project
+ Internet Application Programming Semester Project
