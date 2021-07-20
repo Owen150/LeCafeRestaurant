@@ -1,3 +1,3 @@
-A restaurant management application.
+A restaurant management system.
 
  
